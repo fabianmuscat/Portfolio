@@ -131,3 +131,6 @@ dist
 
 # Custom files
 *.vscode
+
+*.DS_Store
+.prettierrc
