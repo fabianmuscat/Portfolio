@@ -1,0 +1,37 @@
+[
+  {
+    "title": "COVID-19 Monitor",
+    "description": null,
+    "repository": "https://github.com/fabianmuscat/COVID-19-Monitor"
+  },
+  {
+    "title": "Assignment Manager",
+    "description": null,
+    "repository": "https://github.com/fabianmuscat/Assignment-Manager"
+  },
+  {
+    "title": "Dissertation",
+    "description": "This dissertation explores the application of deep learning models for image colourisation tasks. It focuses on converting black and white images to their colour counterparts using various deep learning techniques. The project covers topics such as generative adversarial networks and autoencoders for colourisation.",
+    "repository": "https://github.com/fabianmuscat/Dissertation"
+  },
+  {
+    "title": "Boxty",
+    "description": null,
+    "repository": "https://github.com/fabianmuscat/Boxty"
+  },
+  {
+    "title": "Pac-Man",
+    "description": "A simple 2D pac-man game created using unity and C#.",
+    "repository": "https://github.com/fabianmuscat/Pac-Man"
+  },
+  {
+    "title": "Price Monitor",
+    "description": "A project created for my advanced diplmona in software development. It is created using C# and connected to an MSSQL database.",
+    "repository": "https://github.com/fabianmuscat/Price-Monitor"
+  },
+  {
+    "title": "Fabian Muscat Photography",
+    "description": "A website created in my first year of my advanced diploma in software development. Created using HTML, CSS and some basic JavaScript",
+    "repository": "https://github.com/fabianmuscat/Fabian-Muscat-Photography"
+  }
+]
