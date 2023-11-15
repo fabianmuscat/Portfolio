@@ -22,11 +22,8 @@ export default {
 <template>
     <section class="font-serif h-screen text-platinum w-8/12 mx-auto flex gap-40 overflow-y-hidden">
         <NavBar />
-        <div id="home" class="grid place-items-center h-screen w-full text-platinum-500 overflow-y-auto ">
-            <Home />
-            <About />
-            <Projects />
-            <Experience />
+        <div class="grid place-items-center h-screen w-full text-platinum-500 overflow-y-auto ">
+            <router-view></router-view>
         </div>  
     </section>
 </template>
